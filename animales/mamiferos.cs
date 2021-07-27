@@ -1,0 +1,4 @@
+class mamiferos: animal
+{
+   
+}
